@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I am a Junior Software Engineer whose major goals are learning and building a lot of projects.
 
 
-### I'm Currently Learning :fist:X  
+### I'm Currently Learning :fist: 
 Python, Django, Flask for Backend and HTML, CSS, JavaScript for Frontend.
 
 
