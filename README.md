@@ -1,4 +1,4 @@
-### Hi there 👋 I am Aiyenigba Charles
+### 👋 I am Aiyenigba Charles
 
 
 <!--
