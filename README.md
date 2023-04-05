@@ -17,19 +17,6 @@ Here are some ideas to get you started:
 -->
 
 
-
-### About Me :sunglasses:
-I am a Junior Software Engineer whose major goals are learning and building a lot of projects.
-
-
-### I'm Currently Learning :fist: 
-Python, Django, Flask for Backend and HTML, CSS, JavaScript for Frontend.
-
-
-### I'm looking to Collborate on :grinning:
-Several Projects in Backend Development, Frontend Development and Machine Learning.
-
-
 <h1 align='center'>Hello there 👋🏾 </h1>
 
 <p align='center'>I'm a Junior Software Engineer whose major goals are learning and building a lot of projects. My Backend skillset comprises of Python, Django & Flask while my Frontend skilset comprises of HTML & CSS</p>
