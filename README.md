@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h1 align='center'>Hello there 👋🏾 </h1>
 
-<p align='center'>I'm a Junior Software Engineer whose major goals are learning and building a lot of projects. My Backend skillset comprises of Python, Django & Flask while my Frontend skilset comprises of HTML & CSS</p>
+<p align='center'>I'm a Junior Software Engineer whose major goals are learning and building a lot of projects. My Backend skillset comprises of Python, Django & Flask while my Frontend skillset comprises of HTML & CSS</p>
 
 
 <p align='center'>
