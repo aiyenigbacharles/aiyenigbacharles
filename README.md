@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <p align ="center">
    <a href="mailto:silvacharles156@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;&nbsp;
+</a> <!--&nbsp;&nbsp;-->
    <a href="https://www.linkedin.com/in/charles-aiyenigba-b6a139251/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>     
