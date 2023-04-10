@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   </p>
 
 
-<p >My major goals are learning and building a lot of projects. My Backend skillset comprises of Python, Django & Flask while my Frontend skillset comprises of HTML & CSS😁
+<p >My major goals are learning and building a lot of projects. My Backend skillset comprises of Python, Django & Flask while my Frontend skillset comprises of HTML & CSS 😁
 </p>
 
 
@@ -47,15 +47,14 @@ Here are some ideas to get you started:
 <p align="left">
   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  </a>
-  
+  </a>  
   <a href="https://www.css3.com/">
 	<img alt = "CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   </a>
-
-  <a href="" target="_blank">
-    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <a href="" target=_"blank">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   </a>
+  
 </p>
   
 ### Development Tools
