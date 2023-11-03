@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   </p>
 
 
-<p >My major goals are learning and building a lot of projects. My Backend skillset comprises of Python, Django & Flask while my Frontend skillset comprises of HTML & CSS 😁
+<p >My major goals are learning and building a lot of projects. My Backend skillset comprises of Python & Flask while my Frontend skillset comprises of HTML & CSS 😁
 </p>
 
 
