@@ -121,7 +121,7 @@ Here are some ideas to get you started:
 
  </p>
 
-### Backend Tools
+<!--### Backend Tools
 <p
   <a href="https://opencv.org/" target="_blank">
     <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
@@ -131,7 +131,7 @@ Here are some ideas to get you started:
   </a>
 
  </p>
- 
+--> 
  ### Cloud Platforms
 <p
    
