@@ -142,9 +142,11 @@ Here are some ideas to get you started:
     <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
   </a> 
 
-
-  
+ 
 </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aiyenigbacharles&show_icons=true&locale=en" alt="NnannaOmoke" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aiyenigbacharles&" alt="aiyenigbacharles" /></p>
  
 
 
