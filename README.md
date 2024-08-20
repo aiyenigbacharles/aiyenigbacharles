@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Hi there, I’m Aiyenigba Charles <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 32px height = 32px> 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Junior+Software+Engineer" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Engineer" /></a>
 </p>
 
 <p align ="center">
@@ -138,10 +138,6 @@ Here are some ideas to get you started:
   <a href="https://streamlit.io/" target="_blank">
     <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-Cloud-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
   </a>
-   <a href="" target="_blank">
-    <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
-  </a> 
-
  
 </p>
 
