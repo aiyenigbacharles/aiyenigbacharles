@@ -26,5 +26,4 @@ Tech Generalist
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aiyenigbacharles&theme=tokyonight&hide_border=true&short_numbers=true" alt="charles" /></p>
-
-[![Charles' wakatime stats](https://github-readme-stats.vercel.app/api/top-langs?username=aiyenigbacharles&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)<br/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aiyenigbacharles&show_icons=true&locale=en" alt="NnannaOmoke" /></p
