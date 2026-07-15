@@ -8,7 +8,7 @@ Tech Generalist
 
 
 - 📫 Reach me at **charlesaiyenigba3@gmail.com**
-- 🔗 Check out <a href="https://charles-portfolio-site-pearl.vercel.app/" target="blank">My Portfolio</a>
+- 🔗 Check out <a href="https://charles-aiyenigba.vercel.app/" target="blank">My Portfolio</a>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
